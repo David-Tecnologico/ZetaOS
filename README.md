@@ -1,4 +1,3 @@
 # ZetaOS
 El sistema operativo por comandos actual y en desarrollo.
-# Como Descargar
-Ve a releases para descargar la ISO.
+Para descargar codigo fuente e ISO ve a Releases
